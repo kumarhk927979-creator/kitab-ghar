@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kumarhk927979-creator.github.io/kitab-ghar/sitemap.xml
